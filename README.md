@@ -14,3 +14,5 @@ Also see the main organizing google doc for references.
 
 * 11/23/2021: Barry Smith: Preconditioning of linear systems
 
+* 12/07/2021: Manas Rachh: Polynomial/trigonometric interpolation and beyond
+
