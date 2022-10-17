@@ -1,5 +1,5 @@
 # scsc-notes
-Notes and code from Scientific Computing Seminar &amp; Concepts (SCSC) talks.
+Notes and code from Scientific Computing Seminar &amp; Concepts (SCSC, 2021) talks and Scientific Computing Discussion Group (SCDG, 2022--) teaching talks.
 
 
 ### seminar sessions
