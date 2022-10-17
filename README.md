@@ -16,3 +16,7 @@ Also see the main organizing google doc for references.
 
 * 12/07/2021: Manas Rachh: Polynomial/trigonometric interpolation and beyond
 
+* 09/20/2022: Alex Barnett: Interpolation of data on a sphere
+
+* 10/04/2022: Anna Broms: Coarsely resolved particles with controllable accuracy
+
